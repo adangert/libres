@@ -1,2 +1,2 @@
-# libres
+# libris
 free software subscription service.
